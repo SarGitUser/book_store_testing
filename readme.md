@@ -1,12 +1,15 @@
 <a id="anchor"></a> 
-## [![alt text="Школа тестировщиков ПО"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTLGrH5SvrSpUQM4bgSjSIQsTaflT4EMohw&usqp=CAU)Online-образовательная "Школа тестировщиков ПО"]
+<!-- ## [![alt text="Школа тестировщиков ПО"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTLGrH5SvrSpUQM4bgSjSIQsTaflT4EMohw&usqp=CAU)Online-образовательная "Школа тестировщиков ПО"] -->
+
+# <p align="center">[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTLGrH5SvrSpUQM4bgSjSIQsTaflT4EMohw&usqp=CAU"  height="30" />](https://be-tester.ru/) Online-образовательная "Школа тестировщиков ПО"</p>
+
 
 ### *Описание*
-```
+
 Практика по курсу "Автоматизация" (разработка авто-тестов в PyCharm с использованием Python и Selenium на основе тест-кейсов).
 Проект выполнен в учебных целях для закрепления навыков по Git, Python, DevTools, HTML, CSS.
 Эти задания были разработаны, чтобы улучшить мастерство автоматизации тестирования.
-```
+
 #### *Проект состоит из трех разделов: Home, Registration & login, Shop*
 
 ### ➣ Разделы проекта:
